@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">teste03</string>
+    <string name="fazer_cadastro">Fazer Cadastro</string>
+    <string name="logomarca">Logomarca</string>
+    <string name="imagem_de_cadastro">Imagem de cadastro</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="finalizar_cadastro">Finalizar Cadastro</string>
+</resources>

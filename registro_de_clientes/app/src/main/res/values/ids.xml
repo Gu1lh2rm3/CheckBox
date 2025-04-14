@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_mensagem" type="id" />
+    <item name="img_sucesso" type="id" />
+    <item name="btn_voltar" type="id" />
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">registra_pedido</string>
+    <string name="logomarca">Logomarca</string>
+    <string name="fazer_pedido">Fazer Pedido</string>
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+    <string name="x_bacon">X-Bacon</string>
+    <string name="x_salada">X-Salada</string>
+    <string name="x_burguer">X-Burguer</string>
+    <string name="escolha_seu_lanche">Escolha seu lanche:</string>
+    <string name="imagem_de_card_pio">Imagem de Cardápio</string>
+    <string name="pedido_conclu_do">Pedido Concluído</string>
+    <string name="novo_pedido">Novo Pedido</string>
+</resources>

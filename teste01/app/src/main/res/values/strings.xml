@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teste01</string>
+    <string name="leite_longa_vida_r_2_70">Leite longa vida (R$ 2,70)</string>
+    <string name="arroz_1_kg_r_2_69">Arroz 1 Kg (R$ 2,69)</string>
+    <string name="carne_friboi_r_16_70">Carne Friboi (R$ 16,70)</string>
+    <string name="feij_o_carioquinha_1_kg_r_3_38">Feijão carioquinha 1 Kg (R$ 3,38)</string>
+    <string name="refrigerante_coca_cola_2l_r_3_00">Refrigerante Coca-Cola 2L (R$ 3,00)</string>
+    <string name="calcular_total">Calcular Total</string>
+    <string name="total_r_0_00">Total: R$ 0,00</string>
+</resources>

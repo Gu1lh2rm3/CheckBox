@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cb_arroz" type="id" />
+    <item name="tv_resultado" type="id" />
+    <item name="btn_calcular" type="id" />
+    <item name="cb_coca" type="id" />
+    <item name="cb_feijao" type="id" />
+    <item name="cb_carne" type="id" />
+    <item name="cb_leite" type="id" />
+</resources>

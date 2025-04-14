@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <CheckBox
+        android:id="@+id/cb_arroz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/arroz_1_kg_r_2_69" />
+
+    <CheckBox
+        android:id="@+id/cb_leite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/leite_longa_vida_r_2_70" />
+
+    <CheckBox
+        android:id="@+id/cb_carne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/carne_friboi_r_16_70" />
+
+    <CheckBox
+        android:id="@+id/cb_feijao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feij_o_carioquinha_1_kg_r_3_38" />
+
+    <CheckBox
+        android:id="@+id/cb_coca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/refrigerante_coca_cola_2l_r_3_00" />
+
+    <Button
+        android:id="@+id/btn_calcular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calcular_total"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/tv_resultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/total_r_0_00"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

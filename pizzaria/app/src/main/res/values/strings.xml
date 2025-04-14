@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pizzaria</string>
+    <string name="avan_ar">Avançar</string>
+    <string name="portuguesa">Portuguesa</string>
+    <string name="marguerita">Marguerita</string>
+    <string name="calabresa">Calabresa</string>
+    <string name="escolha_os_sabores">Escolha os sabores:</string>
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+    <string name="forma_de_pagamento">Forma de Pagamento:</string>
+    <string name="dinheiro">Dinheiro</string>
+    <string name="cart_o">Cartão</string>
+    <string name="grande_r_45">Grande - R$45</string>
+    <string name="m_dia_r_35">Média - R$35</string>
+    <string name="pequena_r_25">Pequena - R$25</string>
+    <string name="tamanho_da_pizza">Tamanho da Pizza:</string>
+    <string name="novo_pedido">Novo Pedido</string>
+</resources>

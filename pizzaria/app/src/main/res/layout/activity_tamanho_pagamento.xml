@@ -1,0 +1,30 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView android:text="@string/tamanho_da_pizza" android:textSize="18sp"/>
+        <RadioGroup android:id="@+id/grupoTamanho">
+            <RadioButton android:id="@+id/radioPequena" android:text="@string/pequena_r_25"/>
+            <RadioButton android:id="@+id/radioMedia" android:text="@string/m_dia_r_35"/>
+            <RadioButton android:id="@+id/radioGrande" android:text="@string/grande_r_45"/>
+        </RadioGroup>
+
+        <TextView android:text="@string/forma_de_pagamento" android:textSize="18sp" android:layout_marginTop="16dp"/>
+        <RadioGroup android:id="@+id/grupoPagamento">
+            <RadioButton android:id="@+id/radioDinheiro" android:text="@string/dinheiro"/>
+            <RadioButton android:id="@+id/radioCartao" android:text="@string/cart_o"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnConfirmar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/confirmar_pedido"
+            android:layout_marginTop="24dp"/>
+    </LinearLayout>
+</ScrollView>

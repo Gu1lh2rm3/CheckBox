@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/escolha_os_sabores"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <CheckBox android:id="@+id/checkCalabresa" android:text="@string/calabresa" android:layout_height=""/>
+    <CheckBox android:id="@+id/checkMarguerita" android:text="@string/marguerita"/>
+    <CheckBox android:id="@+id/checkPortuguesa" android:text="@string/portuguesa"/>
+
+    <Button
+        android:id="@+id/btnAvancar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/avan_ar"
+        android:layout_marginTop="24dp"/>
+</LinearLayout>
